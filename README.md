@@ -7,6 +7,12 @@ A sleek, modern dark glassmorphic bottom navigation bar for Flutter with frosted
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roshan-codes/dark-glass-navbar/main/screenshots/preview.png" alt="Dark Glassmorphic Bottom Navigation Bar Preview" width="300" />
+</p>
+
+---
+
 ## ✨ Features
 
 - 🍸 **True Glassmorphism**: Built with `BackdropFilter` and frosted translucent glass overlay.
