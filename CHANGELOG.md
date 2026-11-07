@@ -1,3 +1,7 @@
+## 0.0.2
+
+* Added screenshot preview to documentation.
+
 ## 0.0.1
 
 * Initial release of `dark_glassmorphic_bottom_bar`.
